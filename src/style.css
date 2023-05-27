@@ -1,0 +1,32 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color-scheme: light dark;
+  color: rgba(109, 106, 106, 0.87);
+  background-color: black;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+#app {
+  margin: 0 auto;
+  text-align: center;
+  background-color: black;
+}
+
+.w100{
+  width:100%;
+}
+
+.bold_upper{
+  font-weight: bolder;
+  text-transform: uppercase;
+}

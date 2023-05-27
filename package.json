@@ -1,0 +1,24 @@
+{
+  "name": "s8",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.47",
+    "vue-composition-api": "^0.0.1",
+    "vue-router": "^4.2.1",
+    "vuex": "^4.1.0",
+    "vuex-composition-api": "^3.0.0",
+    "vuex-composition-helpers": "^2.0.3",
+    "vuex-persist": "^3.1.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "vite": "^4.2.1"
+  }
+}
